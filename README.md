@@ -14,3 +14,6 @@ Simply go to the main [Proxy24](https://proxy24.net) site to begin anonymous bro
 
 ### Want to know more about us?
 Explore additional details on our [website](https://proxy24.net).
+
+### You can learn from our blog here
+[Blog](https://proxy24.net/blog)
