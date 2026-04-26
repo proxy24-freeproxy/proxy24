@@ -1,3 +1,6 @@
+## About Proxy24
+![Proxy24 Screenshot](https://github.com/proxy24-freeproxy/proxy24/blob/main/proxy24.png "Preview of Proxy24")
+
 ## FAQ
 
 ### How do I access blocked websites without using a VPN?
